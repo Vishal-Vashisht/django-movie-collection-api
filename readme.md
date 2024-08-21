@@ -41,9 +41,10 @@ ENVIRONMENT =
 # For testing can use this otherwise change this
 SECRET_KEY = 'django-insecure-8yjg1)b$2=6gpv6)62)re+-t*)8o0w%#j6o=nqyzcw3j7%sk(q'
 
-# Get the below variables from Assignment document
+# Get the below variables from Example env file document
 MOVIE_API = 
 MOVIE_API_PASSWORD =
+MOVIE_API_USERNAME = 
 
 # If using docker can set to 'redis' for in memory leave the field blank
 CACHE_BACKEND =
